@@ -8,3 +8,4 @@ Keras
 scikit-learn
 gunicorn
 tensorflow
+xgboost
