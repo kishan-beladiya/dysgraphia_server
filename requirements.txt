@@ -6,3 +6,4 @@ pandas
 opencv-python
 Keras
 scikit-learn
+gunicorn
